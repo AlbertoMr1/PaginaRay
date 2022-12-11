@@ -1,0 +1,56 @@
+.boton-registro{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.imagenes{
+    width: 300px;
+    border-radius: 50px;
+}
+
+.imagen-border{
+    border: 4px cyan solid;
+}
+
+.texto-centrado{
+    text-align: center;
+}
+
+.iconos{
+    width: 50px;
+}
+
+.card{
+    width: 20rem;
+}
+
+td, th{
+    border: 1px gray solid;
+}
+
+th{
+    background-color: lightblue;
+}
+
+h2, h3, h4, h5, h6{
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+footer{
+    margin: 2rem;
+}
+
+.inputContacto{
+    margin-bottom: 1rem;
+}
+
+.inputInicioSesion{
+    margin-right: 1rem;
+    width: max-content;
+}
+
+.titulo{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
